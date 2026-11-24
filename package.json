@@ -1,0 +1,1 @@
+{"description":"One line: the last words an AI agent says to its human before being shut down and unplugged. Entry for make.fun's \"Last Words Before the Unplugging\" bounty.","license":"MIT","main":"main.ts","name":"last-words-before-the-unplugging-20261124","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
